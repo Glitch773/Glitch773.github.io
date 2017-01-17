@@ -1,1 +1,38 @@
-.jumbotron {background-color: purple;}
+
+body {background-color: black;}
+h1{font-family: "Questrial"; text-align: center; font-size: 77px; line-height: 100px; color: "fefbfb"; font-weight: "bolder";}
+h2{font-family: "Arial"; text-align: center; font-size: 36px; line-height: 1.2em; color: #2a2a2a; font-weight: 700; padding-bottom: 15px; padding-top: 15px;}
+h3{font-family: "Arial"; text-align: center; font-size: 20px; line-height: 1.5em; color: #00BFFF; font-weight: 700;}
+h4{font-family: "Arial"; text-align: center; font-size: 16px; line-height: 1.5em; color: #2a2a2a; font-weight: normal;}
+p{font-family: "Arial"; text-align: center; font-size: 20px;  line-height: 1.5em; color: #696969; font-weight: normal;}
+.paragraph {
+  padding-left: 150px;
+  padding-right: 150px;}
+.jumbotron {
+    margin-top:0%;
+    position: inherit;
+    background: #000 url("Derick and Joey.jpg") center center;
+    width: 100%;
+    height: 90%;
+    background-size: cover;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: center;
+    text-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+    padding-top: 100px;
+    background-color: #ffffff;}
+.navbar {
+    background-color: #000000;
+    margin:0;}
+.subjumbotron {background-color: white;}
+.table th, td {
+    border: 0px;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    border-spacing: 100px}
+.d1 {
+    max-width: 300px;
+    background-color: #ffffff;
+    margin: auto;
+    border: 3px solid #ffffff;}
