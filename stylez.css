@@ -1,10 +1,10 @@
 
 body {background-color: black;}
 h1{font-family: "Questrial"; text-align: center; font-size: 77px; line-height: 100px; color: "fefbfb"; font-weight: "bolder";}
-h2{font-family: "Arial"; text-align: center; font-size: 36px; line-height: 1.2em; color: #2a2a2a; font-weight: 700; padding-bottom: 15px; padding-top: 15px;}
-h3{font-family: "Arial"; text-align: center; font-size: 20px; line-height: 1.5em; color: #00BFFF; font-weight: 700;}
-h4{font-family: "Arial"; text-align: center; font-size: 16px; line-height: 1.5em; color: #2a2a2a; font-weight: normal;}
-p{font-family: "Arial"; text-align: center; font-size: 20px;  line-height: 1.5em; color: #696969; font-weight: normal;}
+h2{font-family: "Oswald"; text-align: center; font-size: 36px; line-height: 1.2em; color: #2a2a2a; font-weight: 700; padding-bottom: 15px; padding-top: 15px;}
+h3{font-family: "Oswald"; text-align: center; font-size: 20px; line-height: 1.5em; color: #00BFFF; font-weight: 700;}
+h4{font-family: "Oswald"; text-align: center; font-size: 16px; line-height: 1.5em; color: #2a2a2a; font-weight: normal;}
+p{font-family: "Oswald"; text-align: center; font-size: 20px;  line-height: 1.5em; color: #696969; font-weight: normal;}
 .paragraph {
   padding-left: 150px;
   padding-right: 150px;}
